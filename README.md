@@ -1,6 +1,6 @@
 # Peekafuture - Your AI-Powered Career Guidance Ecosystem
 
-![Peekafuture Hero Banner]([https://i.imgur.com/your-hero-image.png](https://drive.google.com/file/d/1W7hAyyLuPh0zNz9RePAyo0zqYCeZQJ4D/view?usp=sharing)) <!-- Placeholder: Replace with an actual screenshot or banner -->
+![Peekafuture Hero Banner]([https://drive.google.com/file/d/1W7hAyyLuPh0zNz9RePAyo0zqYCeZQJ4D/view?usp=sharing]) <!-- Placeholder: Replace with an actual screenshot or banner -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
