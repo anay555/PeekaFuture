@@ -160,14 +160,4 @@ The application should now be running on [http://localhost:3000](http://localhos
 
 ---
 
-## 🤝 Author
 
-This project was created with ❤️ by **Anany Sharma**.
-
--   **LinkedIn:** [Anany Sharma](https://www.linkedin.com/in/anany-sharma-955603144/)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
